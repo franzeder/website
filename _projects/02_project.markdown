@@ -9,6 +9,11 @@ category: foreign policy
 
 ### Funding
 
+Total funding: EUR 7,687.00
+
+Funded by:
+- [University of Innsbruck](https://www.uibk.ac.at/){:target="\_blank"}
+
 
 ### Publications
 
@@ -16,3 +21,5 @@ category: foreign policy
 - Eder, Franz (2015), *Der Irakkrieg 2003*, peer reviewed, Innsbruck: Innsbruck University Press, DOI: [10.15203/2936-75-2](http://www.uibk.ac.at/iup/buch_pdfs/irakkrieg_2003.pdf){:target="\_blank"}.
 
 ### Dataset
+
+- [Iraq 2003 -- Dataverse](https://dataverse.harvard.edu/dataverse/IraqWar2003){:target="\_blank"}
