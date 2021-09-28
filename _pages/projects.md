@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research on foreign policy and security studies.
 nav: true
-display_categories: [work, fun]
+display_categories: [foreign policy, security studies]
 horizontal: false
 ---
 <div class="projects">

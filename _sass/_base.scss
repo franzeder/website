@@ -30,6 +30,14 @@ a, table.table a {
   text-align: center;
 }
 
+// Blockquote
+
+blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
+}
+
 // Caption
 
 .caption {
@@ -53,7 +61,7 @@ a, table.table a {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: monospace; 
     font-size: 1.2rem;
     p {
       display: inline-block;
@@ -471,7 +479,7 @@ figure.highlight {
 }
 
 pre {
-  color: var(--global-theme-color);
+  color: var(--global-hover-color);
   background-color: var(--global-code-bg-color);
   border-radius: 6px;
   padding: 6px 12px;
@@ -483,7 +491,7 @@ pre {
 }
 
 code {
-  color: var(--global-theme-color);
+  color: var(--global-hover-color);
   background-color: var(--global-code-bg-color);
   border-radius: 3px;
   padding: 3px 3px;
