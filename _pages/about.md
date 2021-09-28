@@ -21,8 +21,8 @@ Welcome to my Website! I am Associate Professor of International Relations at th
 
 To learn more about me, have a look at my [Curriculum Viate](https://drive.google.com/file/d/1nNnbLR7fQZKCrP_1imjyb-tGEBSWbaWd/view?usp=sharing){:target="\_blank"}.
 
-In my research, I focus on the the *foreign and security policy of states* (especially the U.S. and Austria) and on *counter-terrorism policies*. Furtheremore, investigate *methodological questions* of studying International Relations and Foreign Policy and especially focus on [Discourse Network Analysis](https://github.com/leifeld/dna){:target="\_blank"} and Quantitative Text Analysis.
+In my research, I focus on the the *foreign and security policy of states* (especially the U.S. and Austria) and on *counter-terrorism policies*. Furthermore, I investigate *methodological questions* of studying International Relations and Foreign Policy and I am especially focusing on [Discourse Network Analysis](https://github.com/leifeld/dna){:target="\_blank"} and Quantitative Text Analysis.
 
 For more details on my research, have a look at my [publications](/publications/) and my current research [projects](/projects/).
 
-In my [teaching](/projects/), I primarily focus on the topics of *Academic Writing*, *Introduction to International Relations*, *Foreign Policy Analysis*, *(Counter)Terrorism*, *Actors and Agency in International Relations* and on *Methods of Social Sciences*. For more information, have a look at my courses.
+In my [teaching](/teaching/), I primarily focus on the topics of *Academic Writing*, *Introduction to International Relations*, *Foreign Policy Analysis*, *(Counter)Terrorism*, *Actors and Agency in International Relations* and on *Methods of Social Sciences*. For more information, have a look at my courses.
