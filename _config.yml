@@ -154,6 +154,8 @@ scholar:
   #bibliography_template: "{{reference}}"
   bibliography: publications_eder.bib
   bibliography_template: "{{reference}}"
+  bibliography: citations.bib
+  bibliography_template: "{{reference}}"
 
   replace_strings: true
   join_strings: true
