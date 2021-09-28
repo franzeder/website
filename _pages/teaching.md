@@ -54,8 +54,8 @@ nav: true
 - Forschungsstand und Nische
 - erkenntnisleitende Frage
 - klares und präzises Forschungsdesign
-- strukturierter Auau und Argumentation
-- Auau von Absätzen
+- strukturierter Aufbau und Argumentation
+- Aufbau von Absätzen
 - professionelles und sauberes Formatieren
 
 > Können die Studierenden aber bereits einen fertigen Text vorweisen, soll im Zuge der Lehrveranstaltung intensiv an der Ausarbeitung einer zwanzigminütigen (!) Präsentation gearbeitet werden. Dabei liegt der Schwerpunkt vor allem darauf, innerhalb eines begrenzten Zeitraums alle relevanten Elemente einer guten Präsentation (i.e., Problemstellung, Forschungsstand, Forschungsfrage, Forschungsdesign, Ergebnisse) im Vortrag unterzubringen, ohne dabei qualitative Abstriche machen zu müssen.
